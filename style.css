@@ -1,0 +1,48 @@
+h1{
+    margin-left: 500px;
+    padding: 30px;
+}
+
+
+.cafeform{
+    color:darkgoldenrod;
+    border: solid;
+    border-color:cornflowerblue;
+    background-color: aquamarine;
+}
+.menu{
+    color: darkolivegreen;
+    border:solid;
+    border-color: darkviolet;
+    background-color: honeydew;
+}
+.drinks{
+    color:darkorange;
+    border:solid;
+    border-color: deeppink;
+    background-color: khaki;
+}
+.maincoarse{
+    color: maroon;
+    border: solid;
+    border-color:darkcyan;
+    background-color: lightgray;
+}
+.snackes{
+    color:lime;
+    border: solid;
+    border-color:palevioletred;
+    background-color: snow;
+}
+.welcome{
+    border:solid;
+    padding: 50px;
+    font-size: 25px;
+   
+}
+a:link{
+    color: teal;
+}
+a:visited{
+    color:palevioletred
+}
